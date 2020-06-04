@@ -1,5 +1,6 @@
 # Supported Color for Colorstamp
 
+## Tables of Resolvable Color
 | Color | Returned Hex |
 | ----- | ------------ |
 | DEFAULT | #FFF778FF |
@@ -31,6 +32,5 @@
 | GREYPLE | #99AAB5 |
 | DARK BUT NOT BLACK | #2C2F33 |
 | NOT QUITE BLACK | #23272A |
-## Hex Code
-
-## RGB
+## Hex Code and RGB
+> Not sure what a hex code or rgb that want to use? Check out https://htmlcolorcodes.com/color-picker/.
