@@ -3,7 +3,7 @@
 ## Tables of Resolvable Color
 | Color | Returned Hex |
 | ----- | ------------ |
-| DEFAULT | #FFF778FF |
+| DEFAULT | #FFC300 |
 | WHITE | #FFFFFF |
 | AQUA | #1ABC9C |
 | GREEN | #2ECC71 |
